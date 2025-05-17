@@ -1,0 +1,10 @@
+transformers
+torch
+opencv-python
+numpy
+faiss-cpu
+FastAPI
+ultralytics
+typing
+Pillow
+python-multipart
