@@ -1,0 +1,48 @@
+{
+  "1808.07159v1": {
+    "title": "Calculus on Dual Real Numbers",
+    "authors": [
+      "Keqin Liu"
+    ],
+    "summary": "We present the basic theory of calculus on dual real numbers, and prove the\ncounterpart of the ordinary fundamental theorem of calculus in the context of\ndual real numbers.",
+    "pdf_url": "http://arxiv.org/pdf/1808.07159v1",
+    "published": "2018-08-21"
+  },
+  "1803.01177v1": {
+    "title": "Remarks on basic calculus in hyperboloidal foliation",
+    "authors": [
+      "Yue Ma"
+    ],
+    "summary": "In this article we will give a systematic summary on the basic calculus in\nthe hyperboloidal foliation context, especially the estimates based on\ncommutators.",
+    "pdf_url": "http://arxiv.org/pdf/1803.01177v1",
+    "published": "2018-03-03"
+  },
+  "1201.2581v1": {
+    "title": "Henri Lebesgue and the End of Classical Theories on Calculus",
+    "authors": [
+      "Xiaoping Ding"
+    ],
+    "summary": "In this paper a novel calculus system has been established based on the\nconcept of 'werden'. The basis of logic self-contraction of the theories on\ncurrent calculus was shown. Mistakes and defects in the structure and meaning\nof the theories on current calculus were exposed. A new quantity-figure model\nas the premise of mathematics has been formed after the correction of\ndefinition of the real number and the point. Basic concepts such as the\nderivative, the differential, the primitive function and the integral have been\nredefined and the theories on calculus have been reestablished. By historical\nverification of theories on calculus, it is demonstrated that the\nNewton-Leibniz theories on calculus have returned in the form of the novel\ntheories established in this paper.",
+    "pdf_url": "http://arxiv.org/pdf/1201.2581v1",
+    "published": "2012-01-11"
+  },
+  "funct-an/9706007v1": {
+    "title": "The functional calculus for regular operators in Hilbert C*-modules revisited",
+    "authors": [
+      "Johan Kustermans"
+    ],
+    "summary": "Woronowicz introduced the functional calculus for normal operators in Hilbert\nC*-modules. The aim of this paper is to translate, if possible, some basic\nproperties of the functional calculus in Hilbert spaces to the Hilbert\nC*-module framework.",
+    "pdf_url": "http://arxiv.org/pdf/funct-an/9706007v1",
+    "published": "1997-06-20"
+  },
+  "1404.0070v1": {
+    "title": "DD Calculus",
+    "authors": [
+      "Samuel S. P. Shen",
+      "Qun Lin"
+    ],
+    "summary": "This paper introduces DD calculus and describes the basic calculus concepts\nof derivative and integral in a direct and non-traditional way, without limit\ndefinition: Derivative is computed from the point-slope equation of a tangent\nline and integral is defined as the height increment of a curve. This direct\napproach to calculus has three distinct features: (i) it defines derivative and\n(definite) integral without using limits, (ii) it defines derivative and\nantiderivative simultaneously via a derivative-antiderivative (DA) pair, and\n(iii) it posits the fundamental theorem of calculus as a natural corollary of\nthe definitions of derivative and integral. The first D in DD calculus\nattributes to Descartes for his method of tangents and the second D to DA-pair.\nThe DD calculus, or simply direct calculus, makes many traditional notations\nand procedures unnecessary, a plus when introducing calculus to the\nnon-mathematics majors. It has few intermediate procedures, which can help\ndispel the mystery of calculus as perceived by the general public. The\nmaterials in this paper are intended for use in a two-hour introductory lecture\non calculus.",
+    "pdf_url": "http://arxiv.org/pdf/1404.0070v1",
+    "published": "2014-04-01"
+  }
+}

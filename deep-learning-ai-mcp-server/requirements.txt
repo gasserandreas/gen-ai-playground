@@ -1,0 +1,9 @@
+python-dotenv
+anthropic
+arxiv
+jupyter
+notebook
+ipykernel
+FastMCP
+mcp
+nest-asyncio

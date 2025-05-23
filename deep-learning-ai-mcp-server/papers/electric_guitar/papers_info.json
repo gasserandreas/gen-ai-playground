@@ -1,0 +1,59 @@
+{
+  "2501.03720v1": {
+    "title": "Guitar-TECHS: An Electric Guitar Dataset Covering Techniques, Musical Excerpts, Chords and Scales Using a Diverse Array of Hardware",
+    "authors": [
+      "Hegel Pedroza",
+      "Wallace Abreu",
+      "Ryan M. Corey",
+      "Iran R. Roman"
+    ],
+    "summary": "Guitar-related machine listening research involves tasks like timbre\ntransfer, performance generation, and automatic transcription. However, small\ndatasets often limit model robustness due to insufficient acoustic diversity\nand musical content. To address these issues, we introduce Guitar-TECHS, a\ncomprehensive dataset featuring a variety of guitar techniques, musical\nexcerpts, chords, and scales. These elements are performed by diverse musicians\nacross various recording settings. Guitar-TECHS incorporates recordings from\ntwo stereo microphones: an egocentric microphone positioned on the performer's\nhead and an exocentric microphone placed in front of the performer. It also\nincludes direct input recordings and microphoned amplifier outputs, offering a\nwide spectrum of audio inputs and recording qualities. All signals and MIDI\nlabels are properly synchronized. Its multi-perspective and multi-modal content\nmakes Guitar-TECHS a valuable resource for advancing data-driven guitar\nresearch, and to develop robust guitar listening algorithms. We provide\nempirical data to demonstrate the dataset's effectiveness in training robust\nmodels for Guitar Tablature Transcription.",
+    "pdf_url": "http://arxiv.org/pdf/2501.03720v1",
+    "published": "2025-01-07"
+  },
+  "2405.14679v3": {
+    "title": "Leveraging Real Electric Guitar Tones and Effects to Improve Robustness in Guitar Tablature Transcription Modeling",
+    "authors": [
+      "Hegel Pedroza",
+      "Wallace Abreu",
+      "Ryan Corey",
+      "Iran Roman"
+    ],
+    "summary": "Guitar tablature transcription (GTT) aims at automatically generating\nsymbolic representations from real solo guitar performances. Due to its\napplications in education and musicology, GTT has gained traction in recent\nyears. However, GTT robustness has been limited due to the small size of\navailable datasets. Researchers have recently used synthetic data that\nsimulates guitar performances using pre-recorded or computer-generated tones\nand can be automatically generated at large scales. The present study\ncomplements these efforts by demonstrating that GTT robustness can be improved\nby including synthetic training data created using recordings of real guitar\ntones played with different audio effects. We evaluate our approach on a new\nevaluation dataset with professional solo guitar performances that we composed\nand collected, featuring a wide array of tones, chords, and scales.",
+    "pdf_url": "http://arxiv.org/pdf/2405.14679v3",
+    "published": "2024-05-23"
+  },
+  "2211.00943v2": {
+    "title": "Adversarial Guitar Amplifier Modelling With Unpaired Data",
+    "authors": [
+      "Alec Wright",
+      "Vesa V\u00e4lim\u00e4ki",
+      "Lauri Juvela"
+    ],
+    "summary": "We propose an audio effects processing framework that learns to emulate a\ntarget electric guitar tone from a recording. We train a deep neural network\nusing an adversarial approach, with the goal of transforming the timbre of a\nguitar, into the timbre of another guitar after audio effects processing has\nbeen applied, for example, by a guitar amplifier. The model training requires\nno paired data, and the resulting model emulates the target timbre well whilst\nbeing capable of real-time processing on a modern personal computer. To verify\nour approach we present two experiments, one which carries out unpaired\ntraining using paired data, allowing us to monitor training via objective\nmetrics, and another that uses fully unpaired data, corresponding to a\nrealistic scenario where a user wants to emulate a guitar timbre only using\naudio data from a recording. Our listening test results confirm that the models\nare perceptually convincing.",
+    "pdf_url": "http://arxiv.org/pdf/2211.00943v2",
+    "published": "2022-11-02"
+  },
+  "2012.03216v1": {
+    "title": "Guitar Effects Recognition and Parameter Estimation with Convolutional Neural Networks",
+    "authors": [
+      "Marco Comunit\u00e0",
+      "Dan Stowell",
+      "Joshua D. Reiss"
+    ],
+    "summary": "Despite the popularity of guitar effects, there is very little existing\nresearch on classification and parameter estimation of specific plugins or\neffect units from guitar recordings. In this paper, convolutional neural\nnetworks were used for classification and parameter estimation for 13\noverdrive, distortion and fuzz guitar effects. A novel dataset of processed\nelectric guitar samples was assembled, with four sub-datasets consisting of\nmonophonic or polyphonic samples and discrete or continuous settings values,\nfor a total of about 250 hours of processed samples. Results were compared for\nnetworks trained and tested on the same or on a different sub-dataset. We found\nthat discrete datasets could lead to equally high performance as continuous\nones, whilst being easier to design, analyse and modify. Classification\naccuracy was above 80\\%, with confusion matrices reflecting similarities in the\neffects timbre and circuits design. With parameter values between 0.0 and 1.0,\nthe mean absolute error is in most cases below 0.05, while the root mean square\nerror is below 0.1 in all cases but one.",
+    "pdf_url": "http://arxiv.org/pdf/2012.03216v1",
+    "published": "2020-12-06"
+  },
+  "2101.08846v1": {
+    "title": "Soloist: Generating Mixed-Initiative Tutorials from Existing Guitar Instructional Videos Through Audio Processing",
+    "authors": [
+      "Bryan Wang",
+      "Mengyu Yang",
+      "Tovi Grossman"
+    ],
+    "summary": "Learning musical instruments using online instructional videos has become\nincreasingly prevalent. However, pre-recorded videos lack the instantaneous\nfeedback and personal tailoring that human tutors provide. In addition,\nexisting video navigations are not optimized for instrument learning, making\nthe learning experience encumbered. Guided by our formative interviews with\nguitar players and prior literature, we designed Soloist, a mixed-initiative\nlearning framework that automatically generates customizable curriculums from\noff-the-shelf guitar video lessons. Soloist takes raw videos as input and\nleverages deep-learning based audio processing to extract musical information.\nThis back-end processing is used to provide an interactive visualization to\nsupport effective video navigation and real-time feedback on the user's\nperformance, creating a guided learning experience. We demonstrate the\ncapabilities and specific use-cases of Soloist within the domain of learning\nelectric guitar solos using instructional YouTube videos. A remote user study,\nconducted to gather feedback from guitar players, shows encouraging results as\nthe users unanimously preferred learning with Soloist over unconverted\ninstructional videos.",
+    "pdf_url": "http://arxiv.org/pdf/2101.08846v1",
+    "published": "2021-01-21"
+  }
+}
